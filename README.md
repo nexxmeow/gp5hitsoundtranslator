@@ -16,10 +16,12 @@ pip install -r requirements.txt
 ```
 
 #### run ```main.py```
-<img width="650" height="333" alt="image" src="https://github.com/user-attachments/assets/603ebe61-603e-44cd-9be0-f02c9f28ddbf" />
+<img width="650" height="334" alt="image" src="https://github.com/user-attachments/assets/0fdc546b-edcb-48cb-a5ce-f5ec8c8fcf7e" />
+
 
 
 #### Select your .gp5 and .osu files and directory to save a hitsounded difficulty
-<img width="651" height="336" alt="image" src="https://github.com/user-attachments/assets/ab075cb2-ac29-4393-9720-01445cb604a8" />
+<img width="651" height="336" alt="image" src="https://github.com/user-attachments/assets/e974096e-e08b-40d9-82ff-bb5c7d6128ff" />
+
 
 #### then just copy the result using any kind of hitsound copier. you're welcome!
